@@ -18,4 +18,11 @@ public function funkOne() void
         return;
 
     }
+
+    public function funkThree() void
+
+    {
+        return;
+
+    }
 }
