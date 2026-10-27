@@ -5,4 +5,11 @@ class Model
         return 1;
     }
 
+public function funkOne() void
+
+    {
+        return;
+        
+    }
+
 }
