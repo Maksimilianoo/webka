@@ -1,4 +1,8 @@
 class Model
 {
-    // Model code here
+    public function getId()
+    {
+        return 1;
+    }
+
 }
