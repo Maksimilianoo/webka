@@ -9,7 +9,13 @@ public function funkOne() void
 
     {
         return;
-        
+
     }
 
+    public function funkTwo() void
+
+    {
+        return;
+
+    }
 }
